@@ -1,0 +1,1 @@
+# wpec-reset-settings
